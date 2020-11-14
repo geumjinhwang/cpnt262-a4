@@ -4,7 +4,7 @@
 
 ### *Jina Hwang*
  
-## [GitHub Repo](https://github.com/geumjinhwang/cpnt262-a3)
+## [GitHub Repo](https://github.com/geumjinhwang/cpnt262-a4)
 ## [Heroku App](https://jinahwang-cpnt262.herokuapp.com/)
 
 ## - Attribute 
