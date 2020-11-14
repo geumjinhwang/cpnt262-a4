@@ -12,7 +12,6 @@ fetch (`${window.location.origin}/api/v0/gallery`)
   bongs.forEach(function(bongs) {
     output += `<figure class="card">
                   <img src="/images/gallery/${bongs.id}.jpg" alt="${bongs.title}"
-                  width="${bongs.width}" height="${bongs.height}">
                   <figcaption>
                     <h5>${bongs.description}</h5>
                   </figcaption>
