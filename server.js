@@ -42,8 +42,6 @@ app.get('/gallery', function(req, res) {
     });
 });
 
-
-
 // JSON end-point
 app.get('/api/v0/gallery', function(req, res) {
   res.json(bongs);
@@ -51,6 +49,7 @@ app.get('/api/v0/gallery', function(req, res) {
 
 // after subscribe
 app.post('/users', function(req, res) {
+  console.log(req.body);
   res.send(`<p>Thank you, ${req.body.name}! We'll send our newsletters to ${req.body.email}.</p>`);
 });
 

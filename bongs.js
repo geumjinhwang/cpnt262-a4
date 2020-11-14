@@ -6,7 +6,7 @@ const bongs = [
     credit: 'https://chronicglass.ca/product/',
     width:  700,
     height: 850,
-    imagePath: 'public/images/gallery/pinkbong1.jpg'
+    imagePath: 'public/images/gallery/1.jpg'
   },
   {
     id:     2,
@@ -15,7 +15,7 @@ const bongs = [
     credit: 'https://chronicglass.ca/product/',
     width:  700,
     height: 850,
-    imagePath: 'public/images/gallery/pinkbong2.jpg'
+    imagePath: 'public/images/gallery/2.jpg'
   },
   {
     id:     3,
@@ -24,7 +24,7 @@ const bongs = [
     credit: 'https://chronicglass.ca/product/',
     width:  700,
     height: 850,
-    imagePath: 'public/images/gallery/pinkbong3.jpg'
+    imagePath: 'public/images/gallery/3.jpg'
   },
   {
     id:     4,
@@ -33,7 +33,7 @@ const bongs = [
     credit: 'https://chronicglass.ca/product/',
     width:  700,
     height: 850,
-    imagePath: 'public/images/gallery/pinkbong4.jpg'
+    imagePath: 'public/images/gallery/4.jpg'
   },
   {
     id:     5,
@@ -42,7 +42,7 @@ const bongs = [
     credit: 'https://chronicglass.ca/product/',
     width:  700,
     height: 850,
-    imagePath: 'public/images/gallery/pinkbong5.jpg'
+    imagePath: 'public/images/gallery/5.jpg'
   },
   {
     id:     6,
@@ -51,7 +51,7 @@ const bongs = [
     credit: 'https://chronicglass.ca/product/',
     width:  700,
     height: 850,
-    imagePath: 'public/images/gallery/pinkbong6.jpg'
+    imagePath: 'public/images/gallery/6.jpg'
   },
   {
     id:     7,
@@ -60,7 +60,7 @@ const bongs = [
     credit: 'https://chronicglass.ca/product/',
     width:  700,
     height: 850,
-    imagePath: 'public/images/gallery/pinkbong7.jpg'
+    imagePath: 'public/images/gallery/7.jpg'
   },
   {
     id:     8,
@@ -69,7 +69,7 @@ const bongs = [
     credit: 'https://chronicglass.ca/product/',
     width:  700,
     height: 850,
-    imagePath: 'public/images/gallery/pinkbong8.jpg'
+    imagePath: 'public/images/gallery/8.jpg'
   },
   {
     id:     9,
@@ -78,7 +78,7 @@ const bongs = [
     credit: 'https://chronicglass.ca/product/',
     width:  700,
     height: 850,
-    imagePath: 'public/images/gallery/pinkbong9.jpg'
+    imagePath: 'public/images/gallery/9.jpg'
   },
 ];
 

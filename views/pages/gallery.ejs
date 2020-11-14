@@ -10,10 +10,11 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    <script type="module" src="assets/js/client.js"></script>
   </head>
-  
-  <!-- wanted to attatch '<%= current %>' to the body element but css won't apply -->
+
+  <!-- wanted to attatch '<%= current %>' to the body element but then css won't apply -->
 	<body class="is-preload"> 
 
 		<!-- Header and Nav -->
@@ -21,7 +22,7 @@
     <%- include('../partials/nav'); %>
     
 <!-- Gallery -->
-<main class="gallery"></main>
+      <div class="inner"><div class="gallery"></div>
 
 <!-- Footer -->
 <%- include('../partials/footer'); %>
