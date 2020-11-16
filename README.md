@@ -26,5 +26,5 @@ The < body > elements that are in .ejs files already had 'class' in their elemen
 - Delicate Pink https://wackytabacky.ca/lmao-window-shopper-pink-beaker-bong-4mm/
 - Hawaii Pink https://www.420science.com/products/raven-glass-10in-fumed-ufo-beaker-bong
 
-### **Josh Razon** helped me with fixing heroku app/depl when it was keep showing application error and it was due to not installing npm dotenv properly on my command line.
+### **Josh Razon** helped me with fixing heroku app/deploying when it was keep showing application error and it was due to not installing npm dotenv properly on my command line.
 ### **Emil** and **Nhat** also reviewed my codes when there was errors.
